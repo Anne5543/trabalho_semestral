@@ -278,7 +278,7 @@ if (!isset($_SESSION["id"])) {
                     </table>
                 <?php
                 }else {
-                    echo "<h3 style='text-align:center;'> Você não tem nenhum usuário cadastrado.</h3>";
+                    echo "<h3 style='text-align:center;'> Você não tem nenhum nenhum agendamento.</h3>";
                 }
                 ?>
             </div>
